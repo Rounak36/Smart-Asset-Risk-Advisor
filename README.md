@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Smart Asset Risk Advisor is a machine learning-based decision support system designed to assess the operational risk levels of industrial assets based on real-time sensor readings. It classifies assets into risk categories—High, Medium, and Low—and provides actionable suggestions like “Fix Immediately”, “Monitor Closely”, or “No Action Needed”. The project integrates classification models and explainability tools to build trust in predictions and support human-in-the-loop decision-making.
+Smart Asset Risk Advisor is a machine learning-based decision support system designed to assess the operational risk levels of industrial assets based on real-time sensor readings. It classifies assets into risk categories High, Medium, and Low and provides actionable suggestions like “Fix Immediately”, “Monitor Closely”, or “No Action Needed”. The project integrates classification models and explainability tools to build trust in predictions and support human-in-the-loop decision-making.
 
 ## Problem Statement
 
